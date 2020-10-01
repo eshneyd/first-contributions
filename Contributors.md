@@ -22,6 +22,7 @@
 - Sahil Dhingra
 - Baani Dhingra
 - [Jing Tao](https://github.com/jtaoct)
+- [Elizabeth Shneyderman](https://github.com/eshneyd)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
